@@ -12,4 +12,3 @@ https://sadiecannon.github.io/Week-1-Challenge/
 
 ## Contribution
 Made with ❤️️ by Sadie Cannon
-
