@@ -21,7 +21,8 @@ body {
     font-size: 48px;
 
 }
-.header h1 span{
+
+.header h1 span {
     color: #d9dcd6;
 }
 
@@ -73,11 +74,11 @@ p {
     margin-left: 20px;
 }
 
-.content img{
+.content img {
     max-height: 200px;
 }
 
-.content h2{
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
